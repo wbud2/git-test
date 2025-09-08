@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("hello thu yxy");
         System.out.println("push test");
         System.out.println("ssh push test2");
+        System.out.println("拉取到本地库的实验");
     }
 
 }
