@@ -11,6 +11,7 @@ public class GitTest {
         System.out.println("push test");
         System.out.println("ssh push test2");
         System.out.println("拉取到本地库的实验");
+        System.out.println("拉取到本地库的实验ssh");
     }
 
 }
